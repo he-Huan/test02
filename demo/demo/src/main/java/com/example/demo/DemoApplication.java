@@ -11,7 +11,6 @@ import static java.util.stream.Collectors.toList;
 @SpringBootApplication
 
 public class DemoApplication {
-
 	public static void main(String[] args) {
 
 		List<String> list1 = new ArrayList<String>();
